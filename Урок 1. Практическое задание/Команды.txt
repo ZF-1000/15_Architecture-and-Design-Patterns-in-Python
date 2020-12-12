@@ -1,0 +1,6 @@
+
+cd /mnt/c/Nikita/Python_Projects/GeekBrains/15_Архитектура\ и\ шаблоны\ проектирования\ на\ Python/01_lesson.\ Паттерны\ web-представления/Урок\ 1.\ Практическое\ задание/
+
+Запуск:
+
+gunicorn main:application
