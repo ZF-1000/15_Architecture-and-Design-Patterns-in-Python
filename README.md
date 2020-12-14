@@ -1,1 +1,0 @@
-# 15_Architecture-and-Design-Patterns-in-Python
